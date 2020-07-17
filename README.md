@@ -1,5 +1,6 @@
 ### Hi there, I'm [Anmol!](https://anmol270900.github.io/AnmolPortfolio/) 👋
 
+<br/> <br/>
 
 [![My github stats](https://github-readme-stats.vercel.app/api?username=Anmol270900&hide=["stars"]&show_icons=true)](https://github.com/Anmol270900)
 
