@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Anmol's github stats](https://github-readme-stats.vercel.app/api?username=Anmol270900)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **Anmol270900/Anmol270900** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
