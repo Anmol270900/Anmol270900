@@ -1,6 +1,10 @@
 ### Hi there 👋
 
+
+<p align="center">
 [![Anmol's github stats](https://github-readme-stats.vercel.app/api?username=Anmol270900&hide=["stars"]&show_icons=true)](https://github.com/Anmol270900)
+</p>
+
 
 ![image](https://github.com/Anmol270900/Anmol270900/blob/master/dino.gif)
 
