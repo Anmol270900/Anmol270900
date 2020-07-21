@@ -6,10 +6,6 @@
 
 ![image](https://github.com/Anmol270900/Anmol270900/blob/master/dino.gif)
 
-<br/>
-
-![](https://komarev.com/ghpvc/?username=Anmol270900)
-
 <!--
 **Anmol270900/Anmol270900** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
