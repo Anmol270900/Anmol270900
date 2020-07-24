@@ -1,7 +1,8 @@
-### Hi there, I'm [Anmol!](https://anmol270900.github.io/AnmolPortfolio/) 👋
-
 ![image](https://github.com/Anmol270900/Anmol270900/blob/master/dino.gif)
 
+<br/>
+
+### Hi there, I'm [Anmol!](https://anmol270900.github.io/AnmolPortfolio/) 👋
 
 <br/>
 
