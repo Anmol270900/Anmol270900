@@ -6,7 +6,7 @@
 
 <br/>
 
-<img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Anmol270900&theme=radical">
+<img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Anmol270900&theme=default">
 
 <!--
 **Anmol270900/Anmol270900** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
